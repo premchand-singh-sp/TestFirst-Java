@@ -1,0 +1,9 @@
+
+
+class TestJava {
+  public static void mein (String str []) {
+    System.out.println("Hello printing the first java program through console. !! ");
+  }
+}
+
+// commiting.
